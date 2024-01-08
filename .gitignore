@@ -1,0 +1,11 @@
+# ignore all logs, output, and report
+*.html
+*.png
+# ignore following directories and contents
+venv/
+reports/
+.idea/
+.pytest_cache/
+__pycache__/
+.vscode/
+test_Test.py
